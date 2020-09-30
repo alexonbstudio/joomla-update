@@ -1,0 +1,20 @@
+<extensionset name="AlexonbStudio" description=" update (with github)">
+	<extension 
+		name="Module - Open Source" 
+		element="mod_opensource" 
+		type="module" 
+		version="2.4.4" 
+		detailsurl="https://update.joomla.org/core/extension.xml"/>
+	<extension 
+		name="module - metatags" 
+		element="mod_metatags" 
+		type="module" 
+		version="4.3.1" 
+		detailsurl="https://update.joomla.org/core/extension.xml"/>
+	<extension 
+		name="Module - Open Source" 
+		element="shortcode" 
+		type="plugin" 
+		version="4.2.3" 
+		detailsurl="https://update.joomla.org/core/extension.xml"/>
+</extensionset>
