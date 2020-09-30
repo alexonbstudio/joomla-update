@@ -4,17 +4,17 @@
 		element="mod_opensource" 
 		type="module" 
 		version="2.4.4" 
-		detailsurl="https://update.joomla.org/core/extension.xml"/>
+		detailsurl="https://raw.githubusercontent.com/alexonbstudio/joomla-update/master/public/module-opensource.xml"/>
 	<extension 
 		name="module - metatags" 
 		element="mod_metatags" 
 		type="module" 
 		version="4.3.1" 
-		detailsurl="https://update.joomla.org/core/extension.xml"/>
+		detailsurl="https://raw.githubusercontent.com/alexonbstudio/joomla-update/master/public/module-metatags.xml"/>
 	<extension 
-		name="Module - Open Source" 
+		name="Plugin system shortcode" 
 		element="shortcode" 
 		type="plugin" 
 		version="4.2.3" 
-		detailsurl="https://update.joomla.org/core/extension.xml"/>
+		detailsurl="https://raw.githubusercontent.com/alexonbstudio/joomla-update/master/public/plugin-system-shortcode.xml"/>
 </extensionset>
