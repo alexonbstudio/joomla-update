@@ -1,6 +1,26 @@
 <updates>
 	<update>
 		<name>module - metatags</name>
+		<description><![CDATA[ MetaTags: this module makes life easier to improve your natural referencing SEO and several features including share button, analytics & marketing, chatbot, Json-LD and much more if I forgot nothing<br />		<br />	Développer par Alexon Balangue pour joomla 3.x seulement<br />	<h3>Version actuel: 4.3.2</h3> ]]></description>
+		<element>mod_metatags</element>
+		<type>module</type>
+		<version>4.3.2</version>
+		<infourl title="AlexonbStudio: Downloads Joomla module">https://alexonbstudio.fr/downloads-joomla-module</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/alexonbstudio/mod-metatags-joomla/releases/download/4.3.2/mod-metatags-joomla3an4-v4.3.2.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/alexonbstudio/mod-metatags-joomla/releases/download/4.3.2/mod-metatags-joomla3an4-v4.3.2.zip</downloadsource>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>AlexonbStudio</maintainer>
+		<maintainerurl>https://www.alexonbstudio.fr</maintainerurl>
+		<section>AlexonbStudio DEV author by Alexon Balangue</section>
+		<targetplatform name="joomla" version="3.9" />
+		<php_minimum>7.2.0</php_minimum>
+	</update>
+	<update>
+		<name>module - metatags</name>
 		<description><![CDATA[ MetaTags: this module makes life easier to improve your natural referencing SEO and several features including share button, analytics & marketing, chatbot, Json-LD and much more if I forgot nothing<br />		<br />	Développer par Alexon Balangue pour joomla 3.x seulement<br />	<h3>Version actuel: 4.3.1</h3> ]]></description>
 		<element>mod_metatags</element>
 		<type>module</type>
@@ -18,5 +38,5 @@
 		<section>AlexonbStudio DEV author by Alexon Balangue</section>
 		<targetplatform name="joomla" version="3.9" />
 		<php_minimum>7.2.0</php_minimum>
-</update>
+	</update>
 </updates>
