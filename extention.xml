@@ -3,7 +3,7 @@
 		name="Module - Open Source" 
 		element="mod_opensource" 
 		type="module" 
-		version="2.4.4" 
+		version="2.4.5" 
 		detailsurl="https://raw.githubusercontent.com/alexonbstudio/joomla-update/master/public/module-opensource.xml"/>
 	<extension 
 		name="module - metatags" 
