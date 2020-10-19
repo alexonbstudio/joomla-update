@@ -1,6 +1,26 @@
 <updates>
 	<update>
 		<name>Plugin System Shortcode</name>
+		<description><![CDATA[ this 100% shortcode system plugin with hooks <br> Developed by Alexon Balangue only under joomla 3.x <br /> <h3> Current version: 4.2.4 </h3> <br> Resumption of the project since 2018 by myself ]]></description>
+		<element>shortcode</element>
+		<type>plugin</type>
+		<version>4.2.4</version>
+		<infourl title="AlexonbStudio: Downloads Joomla plugin">https://www.alexonbstudio.fr/downloads-joomla-plugin</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/alexonbstudio/plg-shortcode-joomla/releases/download/4.2.4/plg-shortcode-joomla-v4.2.4.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/alexonbstudio/plg-shortcode-joomla/releases/download/4.2.4/plg-shortcode-joomla-v4.2.4.zip</downloadsource>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>AlexonbStudio</maintainer>
+		<maintainerurl>https://www.alexonbstudio.fr</maintainerurl>
+		<section>AlexonbStudio DEV author by Alexon Balangue</section>
+		<targetplatform name="joomla" version="3.9" />
+		<php_minimum>7.2.0</php_minimum>
+	</update>
+	<update>
+		<name>Plugin System Shortcode</name>
 		<description><![CDATA[ this 100% shortcode system plugin with hooks <br> Developed by Alexon Balangue only under joomla 3.x <br /> <h3> Current version: 4.2.3 </h3> <br> Resumption of the project since 2018 by myself ]]></description>
 		<element>shortcode</element>
 		<type>plugin</type>
@@ -18,5 +38,5 @@
 		<section>AlexonbStudio DEV author by Alexon Balangue</section>
 		<targetplatform name="joomla" version="3.9" />
 		<php_minimum>7.2.0</php_minimum>
-</update>
+	</update>
 </updates>
