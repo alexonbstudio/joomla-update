@@ -15,6 +15,6 @@
 		name="Plugin system shortcode" 
 		element="shortcode" 
 		type="plugin" 
-		version="4.2.3" 
+		version="4.2.4" 
 		detailsurl="https://raw.githubusercontent.com/alexonbstudio/joomla-update/master/public/plugin-system-shortcode.xml"/>
 </extensionset>
