@@ -17,4 +17,10 @@
 		type="plugin" 
 		version="4.2.4" 
 		detailsurl="https://raw.githubusercontent.com/alexonbstudio/joomla-update/master/public/plugin-system-shortcode.xml"/>
+	<extension 
+		name="Plugin content adfly" 
+		element="adfly" 
+		type="plugin" 
+		version="1.0.1" 
+		detailsurl="https://raw.githubusercontent.com/alexonbstudio/joomla-update/master/public/plugin-content-adfly.xml"/>
 </extensionset>

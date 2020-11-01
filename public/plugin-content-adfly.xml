@@ -1,0 +1,22 @@
+<updates>
+	<update>
+		<name>Plugin content adfly</name>
+		<description><![CDATA[ this content adfly plugin with hooks <br> Developed by Alexon Balangue only under joomla 3.x <br /> <h3> Current version: 1.0.1 </h3> <br> Original from nordmograph ]]></description>
+		<element>adfly</element>
+		<type>plugin</type>
+		<version>1.0.1</version>
+		<infourl title="AlexonbStudio: Downloads Joomla plugin">http://ivononic.com/4MYf</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/alexonbstudio/plg-content-adfly/releases/download/1.0.1/plg-content-adfly-v1-0-1.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/alexonbstudio/plg-content-adfly/releases/download/1.0.1/plg-content-adfly-v1-0-1.zip</downloadsource>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>AlexonbStudio</maintainer>
+		<maintainerurl>https://www.alexonbstudio.fr</maintainerurl>
+		<section>AlexonbStudio DEV author by Alexon Balangue</section>
+		<targetplatform name="joomla" version="3.9" />
+		<php_minimum>7.2.0</php_minimum>
+	</update>
+</updates>
