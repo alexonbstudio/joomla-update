@@ -4,6 +4,25 @@
 		<description><![CDATA[ this module easier your life without adding the code to your template enable/disable one-click your site in production or development.<br />		Developper by Alexon Balangue for only joomla 4.x<br />	<h3>Version now: 2.4.5</h3> ]]></description>
 		<element>mod_opensource</element>
 		<type>module</type>
+		<version>2.4.6</version>
+		<infourl title="AlexonbStudio: Downloads Joomla module">https://alexonbstudio.fr/downloads-joomla-module</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/alexonbstudio/mod_opensource-joomla/releases/download/2.4.6/mod-opensource-v2.4.6.zip<downloadsource type="full" format="zip">https://github.com/alexonbstudio/mod_opensource-joomla/releases/download/2.4.5/mod_opensource-joomla-245-fix.zip</downloadsource>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>AlexonbStudio</maintainer>
+		<maintainerurl>https://www.alexonbstudio.fr</maintainerurl>
+		<section>AlexonbStudio DEV author by Alexon Balangue</section>
+		<targetplatform name="joomla" version="3.9" />
+		<php_minimum>7.2.0</php_minimum>
+</update>
+	<update>
+		<name>Module - Open Source</name>
+		<description><![CDATA[ this module easier your life without adding the code to your template enable/disable one-click your site in production or development.<br />		Developper by Alexon Balangue for only joomla 4.x<br />	<h3>Version now: 2.4.5</h3> ]]></description>
+		<element>mod_opensource</element>
+		<type>module</type>
 		<version>2.4.5</version>
 		<infourl title="AlexonbStudio: Downloads Joomla module">https://alexonbstudio.fr/downloads-joomla-module</infourl>
 		<downloads>
